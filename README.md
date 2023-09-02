@@ -4,7 +4,7 @@
 - _Techniques Used_: The primary tools used were PostgresSQL for querying the data and Plotly for creating compelling visualizations that bring the insights to life.
 - _Key Findings_: The analysis unearthed captivating patterns, including the enduring dominance of certain countries and players over the years. Attendance and goals statistics were also explored, revealing intriguing facts about the tournament's history.
 - _Conclusion_: This project provided a statistical perspective on the FIFA World Cup, covering its rich history up to 2014. The findings are presented through engaging visualizations, offering a unique look into international soccer.
-- _Source_: The analysis was performed on the FIFA World Cup dataset from Kaggle (https://www.kaggle.com/datasets/abecklas/fifa-world-cup?select=WorldCups.csv).
+- _Source_: The analysis was performed on the FIFA World Cup dataset from Kaggle (https://www.kaggle.com/datasets/abecklas/fifa-world-cup).
 
   
 
